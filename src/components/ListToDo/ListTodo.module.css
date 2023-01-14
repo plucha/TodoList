@@ -1,0 +1,31 @@
+.btn1{
+    border-style:solid;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 1px;
+    color:rgb(247, 249, 251);
+    background-color: rgb(97, 100, 120);
+}
+.btn{
+    margin-left: 12px;
+    color:rgb(247, 249, 251);
+    background-color: rgb(62, 56, 101);
+}
+.listItems{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(170, 187, 245);
+}
+.item{
+color: rgb(23, 8, 49);
+text-align: center;
+font-weight:bold;
+margin-right: 200px;
+}
+.done{
+    color: gray;
+    text-decoration: line-through;
+}

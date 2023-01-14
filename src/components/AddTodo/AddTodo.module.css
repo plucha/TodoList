@@ -1,0 +1,16 @@
+.addTodoForm{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.brd{
+    width: 800px;
+    border-color: rgb(43, 43, 173);
+}
+.btn{
+    margin-left: 12px;
+    width: 50px;
+    background: rgb(47, 47, 93);
+    color:aliceblue;
+}
